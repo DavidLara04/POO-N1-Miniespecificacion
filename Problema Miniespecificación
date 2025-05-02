@@ -1,6 +1,6 @@
 1. Problema a resolver: Crear un sistema básico bancario. Se debe poder retirar dinero, depositar dinero y consultar saldo
 2. Resolución del problema en miniespecificación:
-Clase: Cuentadelbanco
+Clase: Cuentadebanco
 Atributos:
     - numeroCuenta : String
     - nombreUsuario : String
