@@ -1,0 +1,11 @@
+- Ejemplo de miniespecificación
+Clase: Carro
+Atributos:
+•	marca: String
+•	color: String
+Métodos:
+•	constructor(marca: String, color: int)
+•	getMarca(): String
+•	setMarca(marca: String): void
+•	getColor(): String
+•	setColor(color: String): void
